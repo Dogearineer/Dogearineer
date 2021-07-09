@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dogearineer
-- 👀 I’m interested in Learning  Blockchain and technology and Rasperry pi
+- 👀 I’m interested in Learning  Blockchain and technology and Rasperry pi and AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Dogeinear@mail.com
